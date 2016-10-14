@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "666095007564",
+    "firebase_url": "https://mal-app-6de0e.firebaseio.com",
+    "project_id": "mal-app-6de0e",
+    "storage_bucket": "mal-app-6de0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666095007564:android:165523bc0892e6df",
+        "android_client_info": {
+          "package_name": "morxander.firebasenotificationexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666095007564-knf5g0uglr6vv3loqbva6fipfscm329p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQuceO-xoJ_UNV3AR04MiGV1EPVNO1chc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
